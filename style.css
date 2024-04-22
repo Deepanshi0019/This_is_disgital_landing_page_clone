@@ -1,0 +1,7 @@
+.right_nav button:hover .green{
+    left: 0;
+}
+
+.right_nav button .green{
+    transition: left 0.4s ease;
+}
